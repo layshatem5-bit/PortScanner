@@ -59,11 +59,7 @@ vuln-scanner/
 └── README.md
 
 
----
 
-## 📸 Demo
-
-> Screenshot or video coming soon
 
 ---
 

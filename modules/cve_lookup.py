@@ -27,7 +27,6 @@ class CVELookup:
         query = f"{product} {version}".strip()
         print(Fore.YELLOW + f"[*] Searching CVEs for: {query}")
 
-        # استنى ثانيتين قبل كل request عشان ما يحجبنا الـ API
         time.sleep(2)
 
         try:
